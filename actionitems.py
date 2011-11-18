@@ -1,5 +1,3 @@
-__author__ = 'adewinter'
-
 import sys
 
 def printUsage():
